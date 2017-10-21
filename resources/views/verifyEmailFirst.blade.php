@@ -1,0 +1,1 @@
+<h1>Registered sucessfully! Verify Email to activate account</h1>

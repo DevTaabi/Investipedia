@@ -1,0 +1,30 @@
+#bdy{
+    background-color:#F1F5F6;
+    font-family:'Josefin Slab',serif;
+}
+#back{
+    background-color:white;
+}
+#con{
+    background-color:#F1F5F6;
+}
+a{
+    /*color: #AB4A5D;*/
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+li{
+    text-decoration: none;
+    /*color: #AB4A5D;*/
+    color: white;
+}
+.details{
+    /*background-color: #AB4A5D;*/
+    background-color: white;
+}
+
